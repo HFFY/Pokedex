@@ -26,7 +26,17 @@ public class PokemonUtils {
         pokemons.add(new Pokemon(9, "Rattata", R.drawable.rattata, "Normal"));
         pokemons.add(new Pokemon(10, "Sandshrew", R.drawable.sandshrew, "Ground"));
         pokemons.add(new Pokemon(11, "Venonat", R.drawable.venonat, "Bug"));
-        pokemons.add(new Pokemon(12, "Zubat", R.drawable.zubat, "Poison"));
+        pokemons.add(new Pokemon(12, "Pidgey", R.drawable.pidgey, "Normal"));
+        pokemons.add(new Pokemon(13, "Nidoking", R.drawable.nidoking, "Poison"));
+        pokemons.add(new Pokemon(14, "Golduck", R.drawable.golduck, "Water"));
+        pokemons.add(new Pokemon(15, "Magnemite", R.drawable.magnemite, "Electric"));
+        pokemons.add(new Pokemon(16, "Chansey", R.drawable.chansey, "Normal"));
+        pokemons.add(new Pokemon(17, "Kangaskan", R.drawable.kangaskhan, "Poison"));
+        pokemons.add(new Pokemon(18, "Scyter", R.drawable.scyther, "Bug"));
+        pokemons.add(new Pokemon(19, "Electabuzz", R.drawable.electabuzz, "Electric"));
+        pokemons.add(new Pokemon(20, "Magmar", R.drawable.magmar, "Fire"));
+        pokemons.add(new Pokemon(21, "Pinsir", R.drawable.pinsir, "Bug"));
+        pokemons.add(new Pokemon(22, "Gyarados", R.drawable.gyarados, "Water"));
         return pokemons;
     }
 }
